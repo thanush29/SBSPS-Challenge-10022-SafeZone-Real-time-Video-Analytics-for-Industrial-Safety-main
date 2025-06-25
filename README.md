@@ -1,3 +1,5 @@
+New Website Live URL: https://safezone-ai.netlify.app/
+
 # SBSPS-Challenge-10022-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety
 SafeZone: Real-time Video Analytics for Industrial Safety
 See our Demo video here: https://youtu.be/WbTavbpT2WA?si=MSTDnpvvUrxJ1OJs
